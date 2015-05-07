@@ -3,6 +3,6 @@ public class Pessoa {
 
 	private int Codigo;
 	
-	private String nome;
+	private String nome;  
 
 }
